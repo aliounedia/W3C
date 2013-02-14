@@ -1,0 +1,3 @@
+Voici les donnees que Alioune Souhaite envoye au serveur 
+test_serveur , en esperant que tout marche sans problemes
+--Ad
